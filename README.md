@@ -3,7 +3,7 @@
 <img width="800" height="300" alt="Clasificación de aves por su canto" src="https://github.com/user-attachments/assets/2cc4e706-cf52-4f10-b51d-7e1c8b2d2b19" />
 
 # Autores
-Juan David León Delgado, Alejandro Velandia Gelvez, Jonathan Parra
+Juan David León Delgado, Alejandro Velandia Gelvez, Jonathan Philippe Parra Duran
 
 # Objetivo
 Desarrollar modelos de aprendizaje automático que permitan clasificar especies de aves europeas a partir de sus cantos, utilizando características acústicas extraídas como MFCC y contraste espectral, con el fin de apoyar la biología, la preservación ambiental y el monitoreo de ecosistemas.
@@ -31,6 +31,7 @@ Los audios en este dataset fueron segmentados en fragmentos de 10 segundos y cad
 - t-SNE
 
 # Enlaces
-- Video YouTube:
+- Video YouTube: ()
 - Notebook Funcional:
 - Presentación en Canva:
+- Repositorio: 
