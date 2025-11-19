@@ -24,9 +24,13 @@ Los audios en este dataset fueron segmentados en fragmentos de 10 segundos y cad
 - Support Vector Machine (SVM)
 - Deep Neural Networks (DNN)
 
-**No Supervisados:**  
+**No Supervisados:**
+
+**Clustering**
 - KMeans
 - DBSCAN
+
+**Reducción de dimensionalidad**
 - PCA
 - t-SNE
 
