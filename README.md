@@ -10,7 +10,7 @@ Desarrollar modelos de aprendizaje automático que permitan clasificar especies 
 
 # Datasets Utilizados
 **European Male Bird Song Dataset Refined**
-El dataset se encuentra disponible en [European Male Bird Song Dataset Refined](https://www.kaggle.com/datasets/radgeni/european-male-bird-song-dataset-refined) y recopila grabaciones de cantos de aves europeas (Este dataset es una versión más limpia y utilizable de [European Male Bird Song Dataset])(https://www.kaggle.com/datasets/sete39/european-male-bird-song-dataset/data). El conjunto incluye aproximadamente 13,800 audios en formato `.mp3` correspondientes a 32 especies, con un marcado desbalance en la cantidad de registros por especie.
+El dataset se encuentra disponible en [European Male Bird Song Dataset Refined](https://www.kaggle.com/datasets/radgeni/european-male-bird-song-dataset-refined) y recopila grabaciones de cantos de aves europeas (Este dataset es una versión más limpia y utilizable de [European Male Bird Song Dataset](https://www.kaggle.com/datasets/sete39/european-male-bird-song-dataset/data)). El conjunto incluye aproximadamente 13,800 audios en formato `.mp3` correspondientes a 32 especies, con un marcado desbalance en la cantidad de registros por especie.
 
 Los audios en este dataset fueron segmentados en fragmentos de 10 segundos y cada fragmento conserva la metadata original. Además, fueron procesados para extraer características acústicas como **MFCC** y **Spectral Contrast**, que se almacenan en un archivo `.csv`.
  
