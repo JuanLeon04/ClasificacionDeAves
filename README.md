@@ -31,7 +31,7 @@ Los audios en este dataset fueron segmentados en fragmentos de 10 segundos y cad
 - t-SNE
 
 # Enlaces
-- Video YouTube: ()
-- Notebook Funcional:
-- Presentación en Canva:
-- Repositorio: 
+- Video: [YouTube](https://github.com/JuanLeon04/ClasificacionDeAves)
+- Notebook Funcional: [Google Colab](https://github.com/JuanLeon04/ClasificacionDeAves)
+- Presentación: [Diapositivas](https://github.com/JuanLeon04/ClasificacionDeAves)
+- Repositorio: [github](https://github.com/JuanLeon04/ClasificacionDeAves)
