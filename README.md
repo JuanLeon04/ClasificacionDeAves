@@ -1,4 +1,4 @@
-# Clasificación automática de aves europeas por su canto mediante aprendizaje automático
+# Clasificación de aves europeas por su canto mediante aprendizaje automático
 
 <img width="800" height="300" alt="Clasificación de aves por su canto" src="https://github.com/user-attachments/assets/2cc4e706-cf52-4f10-b51d-7e1c8b2d2b19" />
 
