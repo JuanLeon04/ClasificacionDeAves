@@ -3,13 +3,19 @@
 <img width="800" height="300" alt="Clasificación de aves por su canto" src="https://github.com/user-attachments/assets/2cc4e706-cf52-4f10-b51d-7e1c8b2d2b19" />
 
 # Autores
-xd
+Juan David León Delgado, Alejandro Velandia Gelvez, Jonathan Parra
 
 # Objetivo
-xd
+Desarrollar modelos de aprendizaje automático que permitan clasificar especies de aves europeas a partir de sus cantos, utilizando características acústicas extraídas como MFCC y contraste espectral, con el fin de apoyar la biología, la preservación ambiental y el monitoreo de ecosistemas.
 
 # Datasets Utilizados
-xd
+## European Male Bird Song Dataset Refined
+El dataset "European Male Bird Song Dataset Refined", disponible en [Kaggle](https://www.kaggle.com/datasets/radgeni/european-male-bird-song-dataset-refined), recopila grabaciones de cantos de aves europeas. El conjunto incluye aproximadamente 14,000 audios en formato `.mp3` correspondientes a 32 especies, con un marcado desbalance en la cantidad de registros por especie.  
+
+Los audios fueron segmentados en fragmentos de 10 segundos y cada fragmento conserva la metadata original. Además, se procesaron para extraer características acústicas como **MFCC** y **Spectral Contrast**, que se almacenan en un archivo `.csv`.  
+
+Este dataset permite realizar tareas de clasificación supervisada, clustering no supervisado, reducción de dimensionalidad (PCA, t-SNE), generación de modelos y análisis exploratorio. Es útil para investigaciones en biología, preservación ambiental y monitoreo de ecosistemas. Aunque los datos están preparados para su uso, requieren un manejo responsable para garantizar resultados fiables y éticos.
+ 
 
 # Modelos Utilizados
 Random Forest Classifier:
